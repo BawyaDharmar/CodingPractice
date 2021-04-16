@@ -1,0 +1,52 @@
+$link-color: #c3e1ff;
+$background-color: #0f084b;
+
+.footer {
+  font-family: 'Source Sans Pro', sans-serif;
+  display:flex;
+  list-style:none;
+  background-color: #0f084b;
+   color: #c3e1ff;
+}
+
+
+
+
+
+.footer__social{
+  display:flex;
+  padding-left:50px;
+  
+  justify-content:space-evenly;
+}
+a{
+  text-decoration:none;
+   color: #c3e1ff;
+ line-height:2rem;
+  padding:10px;
+}
+.footer__inner{
+  display:flex;
+margin:20px;
+  padding:10px;
+ 
+}
+span{
+  margin:50px;
+}
+.footer__right{
+    display:flex;
+  margin-left:700px;
+}
+
+li{
+ 
+  
+  list-style:none;
+ 
+ 
+}
+
+svg {
+  width: 26px;
+} 
